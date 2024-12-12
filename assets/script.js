@@ -28,5 +28,3 @@ arrowRight.addEventListener("click", () => {
 	console.log('Flèche droite cliquée')
 });
 
-let fruits = ['banane', 'pomme', 'orange', 'abricot', 'fraise'];
-for (let i = 0; i < fruits.length; i++) 
